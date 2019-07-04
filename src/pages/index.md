@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
 title: Welcome to SLAIA
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/home-landing.jpg
+heading: How are we
+subheading: Sri Lankan Architects in Australia
 mainpitch:
-  title: Why Kaldi
+  title: S.L.A.I.A
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    This site is under construction
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Proin sed libero enim sed faucibus turpis in eu mi. Odio ut enim blandit volutpat. Libero volutpat sed cras ornare. Est ultricies integer quis auctor elit sed vulputate mi. Eget sit amet tellus cras adipiscing enim eu turpis. Eget nunc scelerisque viverra mauris in aliquam. Aliquet porttitor lacus luctus accumsan tortor posuere. Mauris augue neque gravida in. Erat velit scelerisque in dictum non consectetur. Vitae suscipit tellus mauris a. Aliquet eget sit amet tellus cras adipiscing. Porta nibh venenatis cras sed. Felis eget nunc lobortis mattis aliquam. Id semper risus in hendrerit gravida. Pharetra sit amet aliquam id diam maecenas ultricies mi.
 intro:
   blurbs:
     - image: /img/coffee.png
