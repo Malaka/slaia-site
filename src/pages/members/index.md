@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /products
+path: /members
 title: Our Members
 image: /img/All3.jpg
 heading: This is our member area
